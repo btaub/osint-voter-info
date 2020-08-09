@@ -52,7 +52,8 @@ Utah | https://votesearch.utah.gov/voter-search/search/search-by-voter/voter-inf
 Vermont | https://mvp.vermont.gov/
 Virginia | https://vote.elections.virginia.gov/VoterInformation/Lookup/status
 Washington | https://voter.votewa.gov/WhereToVote.aspx
-Washington DC | https://www.dcboe.org/Voters/Register-To-Vote/Check-Voter-Registration-Status
 West Virginia | https://services.sos.wv.gov/Elections/Voter/AmIRegisteredToVote
 Wisconsin | https://myvote.wi.gov/en-US/MyVoterInfo
 Wyoming | https://sos.wyo.gov/Elections/State/RegisteringToVote.aspx
+
+District of Columbia | https://www.dcboe.org/Voters/Register-To-Vote/Check-Voter-Registration-Status
